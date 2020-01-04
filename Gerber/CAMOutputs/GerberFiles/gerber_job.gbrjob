@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-12-26T18:09:50Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "GlassCube main PCB"
+        },
+        "Owner": "Moritz Sivers <m.vonsivers@gmx.de>",
+        "Size": {
+            "X": 114.000719,
+            "Y": 114.000731
+        }
+    }
+}
